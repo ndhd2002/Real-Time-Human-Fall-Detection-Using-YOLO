@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+#AI/Model
+*.pt
+*.pth
+*.onnx
+
+#Data/Output
+data/
+runs/
+weights/
+videos/
+*.mp4
+
+#Env
+.env

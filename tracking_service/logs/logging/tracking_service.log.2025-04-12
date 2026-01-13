@@ -1,3 +1,0 @@
-2025-04-15 02:24:04,278 - logs.log_handler - ERROR - Error fetching data: Error while reading from redisedge:6379 : (104, 'Connection reset by peer')
-2025-04-15 02:24:04,291 - logs.log_handler - ERROR - Error fetching data: Error 111 connecting to redisedge:6379. Connection refused.
-2025-04-15 02:24:04,293 - logs.log_handler - ERROR - Error fetching data: Error 111 connecting to redisedge:6379. Connection refused.

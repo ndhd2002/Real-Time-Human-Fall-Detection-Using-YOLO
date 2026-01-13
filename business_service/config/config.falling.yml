@@ -1,0 +1,15 @@
+cameras:
+  - id: CAM1
+  - id: CAM2
+  # - id: CAM3
+  # - id: CAM4
+
+redis:
+  HOSTNAME: redisedge
+  PORT: 6379
+stream:
+  STREAMMAXLEN: 2
+log:
+  verbose: True
+  logdir: './logging'  # Inside `logs` folder
+  logfile: 'camera_service.log'

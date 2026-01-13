@@ -1,0 +1,7 @@
+redis
+opencv-python
+pyyaml
+numpy
+supervision
+streamlit
+flask

@@ -1,0 +1,18 @@
+cameras:
+  - id: CAM1
+  - id: CAM2 
+draw_params:
+  OFFSET: 5
+  TEXTSCALE: 0.4
+  TEXTTHICKNESS: 1
+  THICKNESS: 1
+  TRIANGLESIZE: 10
+redis:
+  HOSTNAME: redisedge
+  PORT: 6379
+stream:
+  STREAMMAXLEN: 2
+log:
+  verbose: True
+  logdir: './logging'
+  logfile: 'tracking_service.log'

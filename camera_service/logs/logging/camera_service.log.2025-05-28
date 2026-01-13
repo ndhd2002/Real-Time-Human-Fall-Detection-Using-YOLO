@@ -1,3 +1,0 @@
-2025-05-29 00:01:50,725 - logs.log_handler - DEBUG - Starting process to read camera id: CAM1
-2025-05-29 00:02:13,488 - logs.log_handler - DEBUG - Read camera: CAM1 error!
-2025-05-29 00:02:35,039 - logs.log_handler - DEBUG - Read camera: CAM1 error!

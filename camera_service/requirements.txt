@@ -1,4 +1,0 @@
-redis
-opencv-python
-pyyaml
-tqdm

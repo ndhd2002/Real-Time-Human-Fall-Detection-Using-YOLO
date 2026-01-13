@@ -1,0 +1,21 @@
+2025-02-25 15:05:24,854 - logs.log_handler - ERROR - Error fetching data: Error while reading from redisedge:6379 : (104, 'Connection reset by peer')
+2025-02-25 15:05:24,856 - logs.log_handler - ERROR - Error fetching data: Error 111 connecting to redisedge:6379. Connection refused.
+2025-02-25 15:05:24,857 - logs.log_handler - ERROR - Error fetching data: Error 111 connecting to redisedge:6379. Connection refused.
+2025-02-25 15:05:24,858 - logs.log_handler - ERROR - Error fetching data: Error 111 connecting to redisedge:6379. Connection refused.
+2025-02-25 15:05:24,858 - logs.log_handler - ERROR - Error fetching data: Error 111 connecting to redisedge:6379. Connection refused.
+2025-02-25 15:05:24,859 - logs.log_handler - ERROR - Error fetching data: Error 111 connecting to redisedge:6379. Connection refused.
+2025-02-25 15:05:24,860 - logs.log_handler - ERROR - Error fetching data: Error 111 connecting to redisedge:6379. Connection refused.
+2025-02-25 15:05:24,861 - logs.log_handler - ERROR - Error fetching data: Error 111 connecting to redisedge:6379. Connection refused.
+2025-02-25 15:05:24,862 - logs.log_handler - ERROR - Error fetching data: Error 111 connecting to redisedge:6379. Connection refused.
+2025-02-25 15:05:24,864 - logs.log_handler - ERROR - Error fetching data: Error 111 connecting to redisedge:6379. Connection refused.
+2025-02-25 15:05:24,865 - logs.log_handler - ERROR - Error fetching data: Error 111 connecting to redisedge:6379. Connection refused.
+2025-02-25 15:05:24,866 - logs.log_handler - ERROR - Error fetching data: Error 111 connecting to redisedge:6379. Connection refused.
+2025-02-25 15:05:24,867 - logs.log_handler - ERROR - Error fetching data: Error 111 connecting to redisedge:6379. Connection refused.
+2025-02-25 15:05:24,868 - logs.log_handler - ERROR - Error fetching data: Error 111 connecting to redisedge:6379. Connection refused.
+2025-02-25 15:05:24,868 - logs.log_handler - ERROR - Error fetching data: Error 111 connecting to redisedge:6379. Connection refused.
+2025-02-25 15:05:24,869 - logs.log_handler - ERROR - Error fetching data: Error 111 connecting to redisedge:6379. Connection refused.
+2025-02-25 15:05:24,870 - logs.log_handler - ERROR - Error fetching data: Error 111 connecting to redisedge:6379. Connection refused.
+2025-02-25 15:05:24,871 - logs.log_handler - ERROR - Error fetching data: Error 111 connecting to redisedge:6379. Connection refused.
+2025-02-25 15:05:24,871 - logs.log_handler - ERROR - Error fetching data: Error 111 connecting to redisedge:6379. Connection refused.
+2025-02-25 15:05:24,872 - logs.log_handler - ERROR - Error fetching data: Error 111 connecting to redisedge:6379. Connection refused.
+2025-02-25 15:05:24,873 - logs.log_handler - ERROR - Error fetching data: Error 111 connecting to redisedge:6379. Connection refused.

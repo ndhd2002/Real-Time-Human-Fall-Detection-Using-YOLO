@@ -1,0 +1,10 @@
+2023-10-23 06:07:34,215 - logs.log_handler - DEBUG - {'id': 'CAM131'}
+2023-10-23 06:07:34,240 - logs.log_handler - DEBUG - {'id': 'CAM127'}
+2023-10-23 06:13:40,017 - logs.log_handler - DEBUG - {'id': 'CAM131'}
+2023-10-23 06:13:40,034 - logs.log_handler - DEBUG - {'id': 'CAM127'}
+2023-10-23 08:25:51,616 - logs.log_handler - DEBUG - {'id': 'CAM131'}
+2023-10-23 08:26:31,082 - logs.log_handler - DEBUG - {'id': 'CAM131'}
+2023-10-23 08:43:42,407 - logs.log_handler - DEBUG - {'id': 'CAM131'}
+2023-10-23 08:59:13,245 - logs.log_handler - DEBUG - {'id': 'CAM131'}
+2023-10-23 09:17:19,348 - logs.log_handler - DEBUG - {'id': 'CAM131'}
+2023-10-23 09:30:13,502 - logs.log_handler - DEBUG - {'id': 'CAM131'}

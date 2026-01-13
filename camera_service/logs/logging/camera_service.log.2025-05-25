@@ -1,0 +1,2 @@
+2025-05-26 06:00:51,974 - logs.log_handler - DEBUG - Starting process to read camera id: CAM2
+2025-05-26 06:01:37,908 - logs.log_handler - DEBUG - Read camera: CAM2 error!
